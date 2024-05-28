@@ -37,11 +37,11 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8080",
+    "front-tau-nine.vercel.app",
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "http://localhost:8080",
+    "front-tau-nine.vercel.app",
 ]
 
 # Application definition
