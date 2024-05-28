@@ -17,7 +17,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['.vercel.app']
 
-WEBSITE_URL = 'http://127.0.0.1:8000'
+WEBSITE_URL = 'pistigreen-backend.vercel.app'
 
 AUTH_USER_MODEL = 'account.User'
 
